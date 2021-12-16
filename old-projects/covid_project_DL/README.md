@@ -9,7 +9,7 @@ Here a project on covid 19's prediction with CNNs!pre
 
 
 __Notebook__ : 
-  + _Data_generation.ipynb_: pre processes the images and gives you the data (x,y) for the training 
+  + _DATA_GEN.ipynb_: pre processes the images and gives you the data (x,y) for the training 
   + _Data_exploration.ipynb_: data cleaning
   + _Resnet_final.ipynb_: transfer learning with Resnet, GradCam.
 
