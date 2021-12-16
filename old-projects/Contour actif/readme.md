@@ -12,7 +12,8 @@ SFM's code are: [sfm_start.py](https://github.com/AmbroiseM/ML_Fun/blob/main/old
 FTC's code are: [debut_ftc.py](https://github.com/AmbroiseM/ML_Fun/blob/main/old-projects/Contour%20actif/debut_ftc.py), [calcul_ftc.py](https://github.com/AmbroiseM/ML_Fun/blob/main/old-projects/Contour%20actif/calcul_ftc.py).
 
 ## How to run 
-To have your segmented image, run [display_results.py](https://github.com/AmbroiseM/ML_Fun/blob/main/old-projects/Contour%20actif/display_results.py) where you'll need to initialize a mask on the part of the image you want to segmentate.
+To have your segmented image, run [display_results.py](https://github.com/AmbroiseM/ML_Fun/blob/main/old-projects/Contour%20actif/display_results.py) where you'll need to initialize a mask on the part of the image you want to segmentate .
 
 I say it was an old project so i didn't had enough time to make a cleaner code, sorry :grimacing: . 
+
 Hope it can you, whoever you are if you came across this repo :smiley: .
