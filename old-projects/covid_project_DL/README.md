@@ -1,7 +1,7 @@
 
 ## Chest X-Ray images for COVID 19's prediction
 
-Here a project on covid 19's prediction with CNNs!pre
+Here a project on covid 19's prediction with CNNs!
 
 
 
