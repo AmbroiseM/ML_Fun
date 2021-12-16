@@ -16,4 +16,4 @@ To have your segmented image, run [display_results.py](https://github.com/Ambroi
 
 I say it was an old project so i didn't had enough time to make a cleaner code, sorry :grimacing: . 
 
-Hope it can you, whoever you are if you came across this repo :smiley: .
+Hope it can help you, whoever you are if you came across this repo :smiley: .
