@@ -8,3 +8,4 @@ This is an old project of mine on image segmentation based on two level set meth
 * [Fast two cycle](https://github.com/AmbroiseM/ML_Fun/blob/main/old-projects/Contour%20actif/Shi%20-%20TIP%20-%202008%20-%20FTC.pdf), from Shi and Karl
   
 SFM's code are: [sfm_start.py](https://github.com/AmbroiseM/ML_Fun/blob/main/old-projects/Contour%20actif/sfm_start.py), [calcul_sfm.py](https://github.com/AmbroiseM/ML_Fun/blob/main/old-projects/Contour%20actif/calcul_sfm.py)
+FTC's code are: [debut_ftc.py](https://github.com/AmbroiseM/ML_Fun/blob/main/old-projects/Contour%20actif/debut_ftc.py), [calcul_ftc.py](https://github.com/AmbroiseM/ML_Fun/blob/main/old-projects/Contour%20actif/calcul_ftc.py)
