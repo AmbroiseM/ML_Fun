@@ -7,7 +7,7 @@
 """
 
 
-from unet_pytorch_layers import * 
+from unet_layers import * 
 import torch
 from torch import nn
     
