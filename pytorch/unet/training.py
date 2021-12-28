@@ -43,12 +43,6 @@ def train(train_loader, model, criterion, optimizer, epoch, params):
         target = target.to(params["device"])
 
         output = model(images).squeeze(1)
-
-        #print("\n")
-        #print(output.size())
-        #print(target.unsqueeze(1).size())
-        #print("\n")
-
         loss = criterion(output, target)
         metric_monitor.update("Loss", loss.item())
         optimizer.zero_grad()
