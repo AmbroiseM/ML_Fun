@@ -10,7 +10,7 @@ The accuracy is not that good, even pretty much awful, I'll try to come back to 
 U-Net: Convolutional Networks for Biomedical Image Segmentation, [paper](https://arxiv.org/abs/1505.04597)
 The Oxford-IIIT Pet Dataset, [link](https://www.robots.ox.ac.uk/~vgg/data/pets/)
 
-![alt text]https://github.com/AmbroiseM/ML_Fun/blob/main/tensorflow/unet/img.png
+![alt text](https://github.com/AmbroiseM/ML_Fun/blob/main/tensorflow/unet/img.png)
 
 ## todo
-[ ] heal that outrageously low accuracy :raised_eyebrow:
+- [ ] heal that outrageously low accuracy :raised_eyebrow:
