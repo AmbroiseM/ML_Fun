@@ -1,7 +1,7 @@
 
 # License plate detection with YoloV5
 
-Quick and simple object detection using YoloV5 (who's paper is STILL not out :face_with_spiral_eyes:)
+Quick and simple object detection using YoloV5 (whose paper is STILL not out :face_with_spiral_eyes:)
 
 ## Reference
 + [YoloV5 Github](https://github.com/ultralytics/yolov5)
