@@ -1,7 +1,7 @@
 
 ## 3D U-Net segmentation
 
-3D subvolumes segmentation with a 3D U-Net. This can be a good starting point if you want to understand segmentation of 3D images.
+3D subvolumes segmentation with a 3D U-Net. This can be a good starting point before going into more 3D images segmentation (lung, brain, etc).
 
 ## References
 
