@@ -11,6 +11,8 @@
 ## Results
 
 I only trained the model for a few epochs (colab free gpu :nerd_face:) , but here are some segmented results
+
+
 <p float="left">
   <img src="https://github.com/AmbroiseM/ML_Fun/blob/main/tensorflow/3d_unet_segmentation/448_segmented_multi_channel.ome.tiff_screenshot%20(2).png" width="  500" />
   <img src="https://github.com/AmbroiseM/ML_Fun/blob/main/tensorflow/3d_unet_segmentation/448_segmented_multi_channel.ome.tiff_screenshot.png" width="500" /> 
