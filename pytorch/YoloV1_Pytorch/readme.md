@@ -1,7 +1,7 @@
 
 # Yolo V1 Pytorch
 
-![alt text](https://cdn.analyticsvidhya.com/wp-content/uploads/2018/12/yologo_2.png)
+![alt text](https://cdn.analyticsvidhya.com/wp-content/uploads/2018/12/yologo_2.png| width=100)
 
 ## todo
 - [ ] loss function script
