@@ -27,4 +27,4 @@ I only trained the model for a few epochs with my own gpu so the results are of 
 
 
 ## todo
-- [ ] NMS
+- [ ] mAP
