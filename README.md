@@ -1,8 +1,8 @@
 # ML_Fun
 
 <p float="left">
-  <img src="https://www.tensorflow.org/images/tf_logo_social.png" width="  500" />
-  <img src="https://miro.medium.com/max/1200/1*bBS_lYMoWhiyJf733Bghwg.jpeg" width="500" /> 
+  <img src="https://www.tensorflow.org/images/tf_logo_social.png" width="  400" />
+  <img src="https://miro.medium.com/max/1200/1*bBS_lYMoWhiyJf733Bghwg.jpeg" width="400" /> 
 
 </p>
 
