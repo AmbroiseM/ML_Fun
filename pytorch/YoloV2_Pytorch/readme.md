@@ -17,5 +17,5 @@ With a little help from [Vijayabhaskar96](https://github.com/Vijayabhaskar96/Obj
 
 ## todo
 
-- [ ] decoding for decoding yolo's output ans show somes results
+- [ ] decoding for decoding yolo's output ans show some results
 - [ ] mAP
