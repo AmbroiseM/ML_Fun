@@ -64,7 +64,7 @@ class yolov2loss(nn.Module):
         
         localization_loss, obj_loss, no_obj_loss, class_loss = 0, 0, 0, 0
         
-        #cell indexes
+        #cell index
         cell = torch.arange(13).to(device)
         
         #sigmoid(tx) + cx
